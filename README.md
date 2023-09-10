@@ -1,5 +1,5 @@
 # esp_app_trace_xtensa
-Arduino library enabling application level tracing for xtensa ESP32 cpu's.
+Arduino library enabling application level tracing for ESP32 Xtensa cpu's.
 
 Configure the library by modifying config.h.
 
