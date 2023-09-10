@@ -13,4 +13,5 @@ The example batch and bash script files set up openocd for an ESP32S3 cpu to log
 Also see https://github.com/sjp27/esp_app_trace_viewer.
 
 ESP32 is a trademark of Espressif Systems (Shanghai) Co., Ltd.
+
 Xtensa is a trademark of Tensilica, Inc.
